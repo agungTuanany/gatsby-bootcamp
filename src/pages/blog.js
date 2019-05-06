@@ -28,9 +28,9 @@ const BlogPage = () => {
       <h1>Hello, </h1>
       <h2> THIS IS BLOG PAGE</h2>
       <ol>
-        {data.allMarkdownRemark.edges.map((edge) => {
+        {data.allMarkdownRemark.edges.map((edge, index) => {
           return (
-            <li>
+            <li key={index}>
               <h2>{edge.node.frontmatter.title}</h2>
               <p>{edge.node.frontmatter.date}</p>
               <p>{edge.node.frontmatter.author}</p>
