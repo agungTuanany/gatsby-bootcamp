@@ -1,7 +1,7 @@
 ---
-Title: "The Great Gatsby Bootcamp"
-Author: "Andrew Mead"
-Date: "2019-05-04"
+title: "The Great Gatsby Bootcamp"
+author: "Andrew Mead"
+date: "2019-05-04"
 ---
 
 This is a common paragraph.

@@ -1,7 +1,7 @@
 ---
-Title: "A common knowledge with ReactJS"
-Author: "Agung Tuanany"
-Date: "2019-05-07"
+title: "A common knowledge with ReactJS"
+author: "Agung Tuanany"
+date: "2019-05-07"
 ---
 
 This is an opening paragraph, explain wath is ReactJS.
