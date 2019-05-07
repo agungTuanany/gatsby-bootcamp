@@ -4,6 +4,8 @@ author: "Agung Tuanany"
 date: "2019-05-07"
 ---
 
+![react-photo](./react.jpeg)
+
 This is an opening paragraph, explain what is ReactJS.
 
 This is a second Paragraph, explain ReactJS environment.

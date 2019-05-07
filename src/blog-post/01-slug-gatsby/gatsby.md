@@ -6,6 +6,8 @@ date: "2019-05-04"
 
 This is a common paragraph.
 
+![gatsby-photo](./gatsby.jpeg)
+
 ## Topics Covered
 
 1. Gatsby
