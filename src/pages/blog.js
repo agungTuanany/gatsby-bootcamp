@@ -3,6 +3,7 @@ import { Link, useStaticQuery, graphql } from 'gatsby'
 
 /* component */
 import Layout from '../components/layout'
+import Head from '../components/head'
 
 /* scss */
 import blogStyles from './blog.module.scss'
@@ -28,10 +29,9 @@ const BlogPage = () => {
     }
   `)
 
-  console.log(data);
-
   return (
     <Layout>
+      <Head title="Blog" />
       <h1>Hello, </h1>
       <h2> THIS IS BLOG PAGE</h2>
       <ol className={blogStyles.posts}>
