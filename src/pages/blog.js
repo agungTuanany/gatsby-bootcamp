@@ -14,7 +14,7 @@ const BlogPage = () => {
       allContentfulBlogPost(
         sort: {
           fields: slug,
-          order: DESC
+          order: ASC
         }
       ) {
         edges {
