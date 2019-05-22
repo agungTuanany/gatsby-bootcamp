@@ -1,8 +1,8 @@
 # Gatsby-Bootcamp
 
-Learn sublime concept for using Gatsbyjs library in Reactjs, making an old
-fashion web from static-web that common in new days into a dynamic-web.
-Built using the good old basics. Made with React, Sass, Node.js.
+Learn the basic concept using Gatsbyjs library stand with Reactjs, Making a static web more flexible. With gatsby configuration, I can make a Blog with convention by using 'markdown' type and that's why gatsby is so easy to setup, deploy and fast when site is loaded.
+
+With GraphQL queries for fetching images makes Gatsby more lighter in development and remove the complexities of configuring environments and build tools. Instead I can focus on code.
 
 
 ## Getting Started
